@@ -1,0 +1,15 @@
+For all integers of different sizes:
+- byte: 4 bits or 1 byte size
+- short: 2 byte sizes
+- int: 4 byte sizes
+- long: 8 byte sizes
+
+for real numbers:
+- float: 4 bytes
+- double: 8 bytes
+
+for single characters:
+- char: 2 bytes or 16 bits
+
+for decisions:
+- Boolean
